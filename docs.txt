@@ -1,0 +1,27 @@
+﻿progarm:
+
+HW
+{
+if WhatProgarms = 0
+input:
+main S = HW end
+output C#
+void main() { string = Hello World }
+}
+
+code:
+
+main == void main( {
+upd == void Update( {
+end == }
+) == )
+HW = hello world
+num == int
+print == debug.log()
+S == string 
+Add == num + num
+: == " "
+
+console:
+RS == Restart Re start the program
+Stop == Stop the program
